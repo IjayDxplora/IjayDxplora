@@ -16,7 +16,7 @@
 >   - - Implemented PIM with just-in-time access controls, eliminating standing privilege across **100% of cloud accounts**
 >     - - Led Zero Trust network segmentation, replacing legacy VPN with identity-based access controls aligned to **NIST CSF**
 >      
->       - I hold a **B.Eng in Computer Engineering** from Michael Okpara University of Agriculture Umudike and a **Microsoft SC-300 certification**.
+>       - I hold a **B.Eng in Computer Engineering** from Michael Okpara University of Agriculture Umudike and a **Microsoft SC-900 certification**.
 >      
 >       - ---
 >
@@ -89,7 +89,7 @@
 > │   └── Audit-Reports/             → Security audit documentation
 > │
 > └── 05-Certifications/
->     ├── SC-300-Identity-Security/
+>     ├── SC-900-Identity-Security/
 >     ├── AZ-500-Azure-Security/     → (In progress)
 >     └── SC-200-Security-Operations/ → (In progress)
 > ```
@@ -100,7 +100,7 @@
 >
 > | Certification | Issuer | Status |
 > |--------------|--------|--------|
-> | Microsoft Certified: Security, Compliance & Identity Fundamentals (SC-300) | Microsoft | ✅ Issued Nov 2025 |
+> | Microsoft Certified: Security, Compliance & Identity Fundamentals (SC-900) | Microsoft | ✅ Issued Nov 2025 |
 > | AZ-500: Azure Security Engineer Associate | Microsoft | 🔄 In Progress |
 > | SC-200: Microsoft Security Operations Analyst | Microsoft | 🔄 In Progress |
 >
